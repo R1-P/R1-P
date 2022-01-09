@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R1-P
 - 👀 I’m interested in learning anything about cutting-edge technology within the healthcare profession. 
-- 🌱 I’m currently studying Biomedical Engineering. 
+- 🌱 I’m currently majoring in Biomedical Engineering. 
 - 💞️ I’m looking to collaborate on projects that combines programming and healthcare. 
 
 <!---
